@@ -3,7 +3,7 @@
 A portfolio-grade web app that generates cohesive **design-token color palettes** and **font pairings** (display + body) with **contrast guardrails**, **locks**, **history**, **favorites**, **shareable URLs**, and **copy/export** utilities.
 
 ✅ **Tech:** Vanilla HTML/CSS/JS (no frameworks, no build tools)  
-✅ **Delivery:** One static file — `index.html`  
+✅ **Delivery:** Static site (3 files) — `index.html`, `styles.css`, `app.js`  
 ✅ **Goal:** Demonstrate product polish + design-system thinking + engineering quality
 
 ---
